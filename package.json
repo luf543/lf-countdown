@@ -1,0 +1,29 @@
+{
+  "name": "react-native-lf-countdown",
+  "version": "1.0.0",
+  "description": "A simple countdown component for React Native, pure js",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luf543/lf-countdown.git"
+  },
+  "author": "lufeng",
+  "license": "MIT",
+  "bin": {
+    "dt": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/luf543/lf-countdown/issues"
+  },
+  "homepage": "https://github.com/luf543/lf-countdown#readme",
+  "keywords": [
+    "react-native",
+    "countdown"
+  ],
+  "dependencies": {
+    "react-addons-update": "15.6.2"
+  }
+}
